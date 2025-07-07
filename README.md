@@ -305,17 +305,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Mesh SDK** - For seamless Cardano wallet integration
 - **Tailwind CSS** - For the beautiful, responsive design system
 
-## 📞 Support
-
-- **Documentation**: [docs.learnflow.com](https://docs.learnflow.com)
-- **Discord**: [Join our community](https://discord.gg/learnflow)
-- **Email**: support@learnflow.com
-- **GitHub Issues**: [Report bugs](https://github.com/yourusername/learnflow/issues)
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/learnflow&type=Date)](https://star-history.com/#yourusername/learnflow&Date)
-
 ---
 
 **Built with ❤️ by the LearnFlow team**
