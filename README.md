@@ -2,7 +2,7 @@
 
 **The Future of Learning is Here** - A blockchain-powered quiz platform that rewards perfect scores with verifiable NFT achievement badges on the Cardano blockchain.
 
-![LearnFlow Banner](https://imghost.net/ib/sxl1RdarvDfWycC_1751921188.png)
+![LearnFlow Banner](https://i.postimg.cc/XYkCbRp2/learnflow-high-resolution-logo.png)
 
 ## 🌟 Overview
 
@@ -21,7 +21,7 @@ LearnFlow is a revolutionary learning platform that combines interactive quizzes
 
 ## 🚀 Live Demo
 
-Visit [LearnFlow](https://your-domain.com) to try it out!
+Visit [LearnFlow](https://doting-duck-271.convex.app/) to try it out!
 
 ## 🛠️ Tech Stack
 
