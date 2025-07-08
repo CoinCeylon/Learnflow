@@ -21,7 +21,7 @@ LearnFlow is a revolutionary learning platform that combines interactive quizzes
 
 ## 🚀 Live Demo
 
-Visit [LearnFlow](https://doting-duck-271.convex.app/) to try it out!
+Visit [LearnFlow](https://fiery-civet-557.convex.app/) to try it out!
 
 ## 🛠️ Tech Stack
 
