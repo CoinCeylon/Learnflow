@@ -131,7 +131,7 @@ import { MeshWallet, BlockfrostProvider } from "@meshsdk/core";
 
 ```bash
 # Required for real minting
-BLOCKFROST_API_KEY=preprodl6Bq073Mz4aOgmuqnFglwG2cM7kBWVnm
+BLOCKFROST_API_KEY=your_api
 SERVICE_WALLET_MNEMONIC=your_24_word_mnemonic_here
 
 # Optional
