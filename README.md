@@ -14,7 +14,7 @@ LearnFlow is a revolutionary learning platform that combines interactive quizzes
 - 🏆 **NFT Achievement Badges**: Perfect scores unlock unique NFT badges minted on Cardano
 - 🔗 **Blockchain Verified**: Achievements permanently recorded and verifiable on-chain
 - 🤖 **AI-Powered Quiz Generation**: Create custom quizzes using Google's Gemini AI
-- 📊 **Progress Tracking**: Comprehensive analytics and leaderboards
+- 📊 **Progress Tracking**: Ai generated analytics and leaderboards
 - 🗳️ **Community Voting**: Vote on AI-generated quizzes to improve quality
 - 📱 **Mobile-First Design**: Responsive interface that works on all devices
 - ⚡ **Real-time Updates**: Live leaderboards and instant feedback
@@ -114,7 +114,7 @@ learnflow/
 ## 🎯 Core Features
 
 ### 1. Quiz System
-- **Multiple Choice Questions**: Interactive quiz interface
+- **AI Genarated Multiple Choice Questions**: Interactive quiz interface
 - **Instant Feedback**: Immediate results with explanations
 - **Progress Tracking**: Real-time progress indicators
 - **Difficulty Levels**: Beginner to Expert classifications
@@ -137,7 +137,7 @@ learnflow/
 - **Level Progression**: Unlock advanced content
 - **Social Features**: Community voting and feedback
 
-### 5. Analytics Dashboard
+### 5. AI Analytics Dashboard
 - **Performance Metrics**: Detailed quiz statistics
 - **Learning Insights**: Progress visualization
 - **NFT Collection**: Badge gallery and achievements
@@ -207,16 +207,13 @@ learnflow/
 
 ### For Learners
 1. **Sign Up**: Create an account with username/password
-2. **Take Quizzes**: Choose from available quizzes
-3. **Earn NFTs**: Get perfect scores to unlock achievement badges
-4. **Track Progress**: Monitor your learning journey
-5. **Connect Wallet**: Link your Cardano wallet for NFT rewards
-
-### For Educators
-1. **Generate Quizzes**: Use AI to create custom content
-2. **Review Content**: Vote on community-generated quizzes
-3. **Monitor Analytics**: Track learner engagement
-4. **Manage Content**: Organize quizzes by difficulty and topic
+2. **Generate Quizzes**: Use AI to create custom content
+3. **Take Quizzes**: Choose from available quizzes
+4. **Review Content**: Vote on community-generated quizzes
+5. **Manage Content**: Organize quizzes by difficulty and topic
+6. **Earn NFTs**: Get perfect scores to unlock achievement badges
+7. **Track Progress**: Monitor your learning journey
+8. **Connect Wallet**: Link your Cardano wallet for NFT rewards
 
 ## 🏗️ Deployment
 
@@ -249,51 +246,6 @@ npx convex deploy    # Deploy backend
 - **Blockchain Security**: Immutable achievement records
 - **Data Privacy**: GDPR-compliant data handling
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-### Development Workflow
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Code Style
-- Use TypeScript for type safety
-- Follow ESLint configuration
-- Use Prettier for code formatting
-- Write meaningful commit messages
-
-## 📊 Analytics & Monitoring
-
-The platform includes comprehensive analytics:
-- **User Engagement**: Quiz completion rates, time spent
-- **Learning Outcomes**: Score distributions, improvement trends
-- **NFT Metrics**: Minting success rates, badge popularity
-- **System Performance**: API response times, error rates
-
-## 🔮 Roadmap
-
-### Phase 1 (Current)
-- ✅ Core quiz functionality
-- ✅ NFT badge system
-- ✅ AI quiz generation
-- ✅ Community voting
-
-### Phase 2 (Q2 2024)
-- 🔄 Multi-language support
-- 🔄 Advanced analytics dashboard
-- 🔄 Mobile app development
-- 🔄 Integration with educational platforms
-
-### Phase 3 (Q3 2024)
-- 📋 Certification programs
-- 📋 Corporate training modules
-- 📋 Advanced AI features
-- 📋 Cross-chain NFT support
-
 ## 📄 License
 
 This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
@@ -308,6 +260,3 @@ This project is licensed under the Apache License - see the [LICENSE](LICENSE) f
 
 ---
 
-**Built with ❤️ by the LearnFlow team**
-
-*Empowering learners worldwide with blockchain-verified achievements*
